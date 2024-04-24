@@ -7,11 +7,10 @@ Head movement during long scan sessions degrades the quality of reconstruction i
 
 # Cite
 @inproceedings{cai2023cross,  
-
-  title={Cross-Attention for Improved Motion Correction in Brain PET},
-  author={Cai, Zhuotong and Zeng, Tianyi and Lieffrig, El{\'e}onore V and Zhang, Jiazhen and Chen, Fuyao and Toyonaga, Takuya and You, Chenyu and Xin, Jingmin and Zheng, Nanning and Lu, Yihuan and others},
-  booktitle={International Workshop on Machine Learning in Clinical Neuroimaging},
-  pages={34--45},
-  year={2023},
-  organization={Springer}
+  title={Cross-Attention for Improved Motion Correction in Brain PET},  
+  author={Cai, Zhuotong and Zeng, Tianyi and Lieffrig, El{\'e}onore V and Zhang, Jiazhen and Chen, Fuyao and Toyonaga, Takuya and You, Chenyu and Xin, Jingmin and Zheng, Nanning and Lu, Yihuan and others},  
+  booktitle={International Workshop on Machine Learning in Clinical Neuroimaging},  
+  pages={34--45},  
+  year={2023},  
+  organization={Springer}  
 }
